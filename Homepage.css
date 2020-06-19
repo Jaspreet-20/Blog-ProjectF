@@ -34,9 +34,7 @@ body {
 }
 
 #nav-head2 a:hover {
-  transform: scale(1.1);
-  transition: 1s;
-  font-size: 40px;
+  text-decoration: underline;
 }
 
 .First_blog {
